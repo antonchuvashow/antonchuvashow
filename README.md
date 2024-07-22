@@ -1,8 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Testing Platform
+- 🔭 I’m currently working on myself
 - 👯 I’m looking to collaborate on anything you have...
 - 🤝 I’m looking for help with my soul
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: antonchuvashow@gmail.com
 - ⚡ Fun fact: I play piano 🎹
 
