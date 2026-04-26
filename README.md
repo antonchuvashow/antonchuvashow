@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on myself
 - 👯 I’m looking to collaborate on anything you have...
 - 🤝 I’m looking for help with my soul
-- 📫 How to reach me: antonchuvashow@gmail.com
+- 📫 How to reach me: antonchuvashow@gmail.com 
 - ⚡ Fun fact: I play piano 🎹
 
 ## 💻 Tech Stack:
